@@ -3,8 +3,15 @@
 to Create an API to print HELLO WORLD using sping boot.
 ## PROCEDURE:
 ### STEP 1:
-
-
+Generate the spring API using spring initializr.
+### STEP 2:
+create HelloController class through which hello world is displayed.
+### STEP 3:
+Add dependencies in build.gradle.
+### STEP 4:
+Run the API in browser.
+### STEP 5:
+Verify whether API running properly.
 ## PROGRAM:
 ### HelloworldApplication.java
 ```
